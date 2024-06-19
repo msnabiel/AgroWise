@@ -116,8 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **GitHub**: [msnabiel](https://github.com/msnabiel)
-- **Email**: [msyednabiel@gmail.com] (https://github.com/msnabiel)
+- **Email**: [msyednabiel@gmail.com](https://github.com/msnabiel)
 - **LinkedIn**: [msnabiel](https://www.linkedin.com/in/msnabiel/)
 
 Thank you for checking out the **AgroWise--Smart-Irrigation** project! Feel free to reach out for any questions or collaboration opportunities.
